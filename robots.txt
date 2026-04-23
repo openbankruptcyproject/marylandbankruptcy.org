@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://marylandbankruptcy.org/sitemap.xml
 
-Sitemap: https://marylandbankruptcy.org/feed.xml
+
+Sitemap: https://marylandbankruptcy.org/sitemapindex.xml
