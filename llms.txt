@@ -1,5 +1,5 @@
-# Maryland Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# Maryland Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
 > Free Maryland bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Maryland exemptions, filing costs, means test, and what to expect in your case.
 
@@ -48,12 +48,12 @@ marylandbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypro
 - Can I Keep My Jewelry in Maryland Bankruptcy?: https://marylandbankruptcy.org/engagement-ring.html
 - Can Bankruptcy Stop an Eviction in Maryland?: https://marylandbankruptcy.org/eviction.html
 - Maryland Bankruptcy Exemptions - What You Can Keep: https://marylandbankruptcy.org/exemptions.html
-- Maryland Bankruptcy FAQ - 15 Common Questions Answered: https://marylandbankruptcy.org/faq.html
+- Maryland Bankruptcy FAQ [2026]: 15 D. Maryland Filing Questions Answered: https://marylandbankruptcy.org/faq.html
 - How to Find Bankruptcy Filings in Maryland: https://marylandbankruptcy.org/find-bankruptcy-filing.html
 - Foreclosure and Bankruptcy in Maryland: https://marylandbankruptcy.org/foreclosure.html
 - Maryland Bankruptcy Glossary: https://marylandbankruptcy.org/glossary.html
 - Bankruptcy Income Limits in Maryland: https://marylandbankruptcy.org/income-limits.html
-- Maryland Bankruptcy - Chapter 7 & 13 Filing Guide: https://marylandbankruptcy.org/
+- Maryland Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://marylandbankruptcy.org/
 - Judgments and Bankruptcy in Maryland: https://marylandbankruptcy.org/judgments.html
 - Keep Your Car in Maryland Bankruptcy: https://marylandbankruptcy.org/keep-your-car.html
 - Keep Your House in Maryland Bankruptcy: https://marylandbankruptcy.org/keep-your-house.html
@@ -69,7 +69,7 @@ marylandbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypro
 - Second Mortgages and Bankruptcy in Maryland: https://marylandbankruptcy.org/second-mortgage.html
 - Bankruptcy and Security Clearance in Maryland - Will I Lose My Clearance?: https://marylandbankruptcy.org/security-clearance.html
 - Small Business Bankruptcy in Maryland: https://marylandbankruptcy.org/small-business.html
-- Maryland Bankruptcy Statistics - Filing Data and Trends: https://marylandbankruptcy.org/statistics.html
+- Maryland Bankruptcy Statistics [2026]: D. Maryland Filing Volume, Chapter Mix, and Discharge Data: https://marylandbankruptcy.org/statistics.html
 - What Bills to Stop Paying Before Bankruptcy in Maryland: https://marylandbankruptcy.org/stop-paying-bills.html
 - Student Loans and Bankruptcy in Maryland: https://marylandbankruptcy.org/student-loans.html
 - Surrendering Your Car in Maryland Bankruptcy - Process, Deficiency, Options: https://marylandbankruptcy.org/surrender-car.html
@@ -80,6 +80,7 @@ marylandbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypro
 - Can I Travel During Chapter 13 in Maryland?: https://marylandbankruptcy.org/travel-chapter-13.html
 - Wage Garnishment and Bankruptcy in Maryland: https://marylandbankruptcy.org/wage-garnishment.html
 - Privacy Policy: https://marylandbankruptcy.org/privacy.html
+- About marylandbankruptcy.org: https://marylandbankruptcy.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
